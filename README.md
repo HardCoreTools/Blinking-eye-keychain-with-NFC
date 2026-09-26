@@ -54,8 +54,8 @@ TOTAL =  €90.75  and  $103,39
 
 <table>
 <tr>
-<td><img src="images/schematic.png" width="380"><br><sub></sub></td>
-<td><img src="images/layout.png" width="380"><br><sub></sub></td>
+<td><img src="images/SCH_Schematic1_2026-09-26.pdf" width="380"><br><sub></sub></td>
+<td><img src="images/Screenshot 2026-09-26 202242.png" width="380"><br><sub></sub></td>
 </tr>
 </table>
 
