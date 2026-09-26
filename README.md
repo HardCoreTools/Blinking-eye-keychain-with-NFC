@@ -40,6 +40,8 @@ JLCPCB- PCBA €47.04
 
 AMAZON- €43.71 
 
+TOTAL =  €90.75  and  $103,39
+
 <table>
 <tr>
 <td><img src="images/Screenshot 2026-09-26 185511.png" width="380"><br><sub></sub></td>
