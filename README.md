@@ -72,4 +72,3 @@ TOTAL =  €90.75  and  $103,39
 ## 📄 License
 
 - **Firmware**: [MIT License](LICENSE-MIT) — free to use, modify, and share, just keep the copyright notice
-- **Hardware** (schematics, PCB): [CC BY-SA 4.0](LICENSE-HARDWARE) — free to build, remix, and share, with attribution
