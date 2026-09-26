@@ -8,8 +8,8 @@
 ![Made with](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
 ![MCU](https://img.shields.io/badge/MCU-ATtiny1616-blue)
 
-<img src="images/Front.png" alt="Photo of the finished keychain" width="480">
-<img src="images/Back.png" alt="Photo of the finished keychain" width="480">
+<img src="images/Screenshot 2026-09-26 190200.png" alt="Photo of the finished keychain" width="480">
+<img src="images/Screenshot 2026-09-26 190208.png" alt="Photo of the finished keychain" width="480">
 
 
 </div>
