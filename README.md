@@ -1,2 +1,72 @@
-# Blinking-eye-keychain-with-NFC
-Blinking-eye keychain with NFC — a tiny keychain with a small OLED screen that shows animated eyes, powered by a rechargeable battery and controlled by a low-power microcontroller and it has nfc so when you tap your phone it shows a website that you what. Designed to be as compact as possible.
+<div align="center">
+
+# 👀 NFC Eye Keychain
+
+**A tiny keychain with animated OLED eyes, an onboard NFC chip, and a rechargeable battery — built to be as small as possible.**
+
+![PCB](https://img.shields.io/badge/PCB-EasyEDA-red)
+![Made with](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
+![MCU](https://img.shields.io/badge/MCU-ATtiny1616-blue)
+
+<img src="images/Front.png" alt="Photo of the finished keychain" width="480">
+<img src="images/Back.png" alt="Photo of the finished keychain" width="480">
+
+
+</div>
+
+---
+
+## ✨ Overview
+
+This is a pocket-sized keychain that blinks a pair of animated eyes on a small OLED screen. An onboard NFC chip can wake it from deep sleep the instant a phone taps it, keeping battery drain to a minimum the rest of the time. No charging port — the battery unplugs for external charging to keep the whole thing as small and simple as possible.
+
+> ⚠️ **No firmware yet** — no code has been written. Eye animation, NFC handling are all still TODO.
+
+## 🔧 Hardware
+
+| Part | Component |
+|---|---|
+| 🧠 MCU | ATtiny1616-MNR (VQFN20) |
+| 🖥️ Display | 0.96" OLED, SSD1306, I2C  |
+| 📡 NFC | NTAG I2C+ (field-detect wake, shared I2C bus) |
+| 🔋 Battery | 100mAh 3.7V LiPo, JST-PH connector |
+| ⚡ Charging | External only — no onboard charge circuit |
+| 🔘 Power switch | SPST slide switch |
+| 🔌 Programming | UPDI (3-pad header: PA0, VDD, GND) |
+
+## 💰 Cost 
+
+JLCPCB- PCBA €47.04
+AMAZON- €43.71 
+
+<table>
+<tr>
+<td><img src="images/JLCPCB.png" width="380"><br><sub></sub></td>
+<td><img src="images/AMAZOM.png" width="380"><br><sub></sub></td>
+</tr>
+</table>
+
+
+## 📐 Schematics
+
+<table>
+<tr>
+<td><img src="images/schematic.png" width="380"><br><sub></sub></td>
+<td><img src="images/layout.png" width="380"><br><sub></sub></td>
+</tr>
+</table>
+
+## 📁 Repo structure
+
+```
+├── schematics/   EasyEDA exports / schematic images
+├── firmware/     ATtiny1616 firmware (Arduino/megaTinyCore)
+├── pcb/          PCB layout files
+└── images/       photos and renders
+```
+
+
+## 📄 License
+
+- **Firmware**: [MIT License](LICENSE-MIT) — free to use, modify, and share, just keep the copyright notice
+- **Hardware** (schematics, PCB): [CC BY-SA 4.0](LICENSE-HARDWARE) — free to build, remix, and share, with attribution
