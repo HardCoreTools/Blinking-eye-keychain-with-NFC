@@ -43,7 +43,7 @@ AMAZON- €43.71
 <table>
 <tr>
 <td><img src="images/Screenshot 2026-09-26 185511.png" width="380"><br><sub></sub></td>
-<td><img src="images/AMAZOM.png" width="380"><br><sub></sub></td>
+<td><img src="images/Screenshot 2026-09-26 185908.png" width="380"><br><sub></sub></td>
 </tr>
 </table>
 
