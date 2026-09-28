@@ -50,7 +50,7 @@ TOTAL with amazon =  €90.75  and  $103,39
 <tr>
 <td><img src="images/Screenshot 2026-09-26 185511.png" width="380"><br><sub></sub></td>
 <td><img src="images/Screenshot 2026-09-26 185908.png" width="380"><br><sub></sub></td>
-<td><img src="images/Screenshot 2026-09-26 151632.png" width="380"><br><sub></sub></td>
+<td><img src="images/Screenshot 2026-09-28 151632.png" width="380"><br><sub></sub></td>
 </tr>
 </table>
 
