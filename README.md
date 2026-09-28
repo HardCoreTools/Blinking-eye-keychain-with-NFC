@@ -38,14 +38,19 @@ This is a pocket-sized keychain that blinks a pair of animated eyes on a small O
 
 JLCPCB- PCBA €47.04
 
-AMAZON- €43.71 
+AMAZON- €43.71 or aliexpres €23.97
 
-TOTAL =  €90.75  and  $103,39
+
+TOTAL with aliexpres =  67.68 €  and  $76,91
+
+
+TOTAL with amazon =  €90.75  and  $103,39
 
 <table>
 <tr>
 <td><img src="images/Screenshot 2026-09-26 185511.png" width="380"><br><sub></sub></td>
 <td><img src="images/Screenshot 2026-09-26 185908.png" width="380"><br><sub></sub></td>
+<td><img src="images/Screenshot 2026-09-26 151632.png" width="380"><br><sub></sub></td>
 </tr>
 </table>
 
