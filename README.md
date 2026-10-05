@@ -48,6 +48,19 @@ THIS IS THE OLD PRICE
 </tr>
 </table>
 
+## 💰 Cost
+
+aliexpres = $8.34
+
+lcsc = $28.36
+
+TOTAL = $36.7
+<table>
+<tr>
+<td><img src="FOR_HACKCLUB/Screenshot 2026-10-05 155532.png" width="380"><br><sub></sub></td>
+<td><img src="FOR_HACKCLUB/Screenshot 2026-10-05 165653.png" width="380"><br><sub></sub></td>
+</tr>
+</table>
 
 ## 📐 Schematics
 
