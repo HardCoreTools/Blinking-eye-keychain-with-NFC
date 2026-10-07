@@ -20,8 +20,6 @@
 
 This is a pocket-sized keychain that blinks a pair of animated eyes on a small OLED screen. An onboard NFC chip can wake it from deep sleep the instant a phone taps it, keeping battery drain to a minimum the rest of the time. No charging port — the battery unplugs for external charging to keep the whole thing as small and simple as possible.
 
-> ⚠️ **No firmware yet** — no code has been written. Eye animation, NFC handling are all still TODO.
-
 ## 🔧 Hardware
 
 | Part | Component |
