@@ -52,8 +52,8 @@ This is a pocket-sized keychain that blinks a pair of animated eyes on a small O
 
 
 
-<img src="images/Screenshot 2026-10-21 135517.png" alt="price" width="480">
-<img src="images/Screenshot 2026-10-21 133419.png" alt="price" width="480">
+<img src="FOR_HACKCLUB/Screenshot 2026-10-21 135517.png" alt="price" width="480">
+<img src="FOR_HACKCLUB/Screenshot 2026-10-21 133419.png" alt="price" width="480">
 
 EVEYTHING TOGETHER = $72.34
 
