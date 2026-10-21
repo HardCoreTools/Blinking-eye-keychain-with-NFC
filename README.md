@@ -33,19 +33,29 @@ This is a pocket-sized keychain that blinks a pair of animated eyes on a small O
 |  Programming | UPDI (3-pad header: UPID, VDD, GND) |
 
 
-## Cost
+## Cost for the pcb 
 
-aliexpres = $8.34
 
-lcsc = $28.36
+| Name          | Description                                                                   | Price  | Shipping |
+| ------------- | ----------------------------------------------------------------------------- | ------ | -------- |
+| Componenets   | Components from LCSC. Detailed breakdown [here](/FOR_HACKCLUB/export_cart_20261005_215503.csv) | $13.85  | $14.45   |
+| PCB+Stencil   | PCB and stencil from JLC                                                      | $11.32 | $20.18   |
+| **Sub Total** |                                                                               | $25.17 | $34.63   |
+| **Total**     |                                                                               | $59.8  |          |
 
-TOTAL = $36.7
-<table>
-<tr>
-<td><img src="FOR_HACKCLUB/Screenshot 2026-10-05 155532.png" width="380"><br><sub></sub></td>
-<td><img src="FOR_HACKCLUB/Screenshot 2026-10-05 165653.png" width="380"><br><sub></sub></td>
-</tr>
-</table>
+
+| Name          | Description                                                                   | Price  | Shipping |
+| ------------- | ----------------------------------------------------------------------------- | ------ | -------- |
+|  5879 UPDI Friend  | from aliexpress | $3.49  | $0   |
+| Original 0.96 inch OLED IIC Serial White OLED Display Module 128X64 I2C  | Yellow Blue 5pcs | $9.05  | $0   |
+| **Total**     |                                                                               | $12.54  |          |
+
+
+
+<img src="images/Screenshot 2026-10-21 135517.png" alt="price" width="480">
+<img src="images/Screenshot 2026-10-21 133419.png" alt="price" width="480">
+
+EVEYTHING TOGETHER = $72.34
 
 ## Schematics
 
